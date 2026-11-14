@@ -1,2 +1,1 @@
-    // cout<<nptr<<endl;
-    // cout<<*nptr;
+  // fin>>ch;//
